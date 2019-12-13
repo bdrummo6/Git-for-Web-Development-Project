@@ -1,10 +1,8 @@
 Hello, my name is Bradley Drummonds.
 
-Hello, my name is Bradley Drummonds.
-
 1. What is Semantic HTML? 
 
-html is the framework for css & semantic html is referring to html elements that have meaning 
+HTNL is the framework for css & semantic html is referring to html elements that have meaning 
 
 2. What is HTML used for? 
 
